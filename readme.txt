@@ -3,3 +3,4 @@ Git is free software.
 Git GitHub Test.
 Git GitHub commit test!
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
